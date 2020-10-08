@@ -186,7 +186,7 @@ a   {
 @media (max-width: 1800px)   {
     .top-cloud {
         height: 5rem;
-        left: 2rem;
+        left: 5rem;
         margin: 0;
         position: relative;
         width: 300px;
@@ -194,7 +194,7 @@ a   {
 
     .bottom-cloud {
         height: 5rem;
-        left: 3rem;
+        left: 2rem;
         margin: 0;
         position: absolute;
         width: 300px;
