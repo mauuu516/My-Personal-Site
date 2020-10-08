@@ -1,0 +1,202 @@
+
+/* UNIVERSAL STYLES */
+
+body {
+    background-color: #f6efe8;
+    color: #968089;
+    font-family: "Merriweather";
+    line-height: 2;
+    text-align: center;
+}
+
+hr  {
+    border-top: dotted;
+    border-width: 5px;
+    color: #c86b85;
+    margin: 3rem auto;
+    width: 5%;
+}
+
+a   {
+    text-decoration: none;
+}
+
+
+
+/* NAVIGATION BAR */
+
+.navbar {
+    padding: 0 0 1rem;
+}
+
+.navbar-brand   {
+    height: 6rem;
+    width: 6rem;
+}
+
+.nav-item    {
+    padding: 0 18%;
+}
+
+.nav-li   {
+    color: #627002;
+    font-family: "Merriweather";
+    font-size: 1rem;
+}
+
+.nav-li:hover   {
+    color: #d884a5;
+}
+
+/* TITLE SECTION */
+
+.container-fluid    {
+    padding: 0;
+    text-align: center;
+    
+}
+
+.big-heading    {
+    color: #627002;
+    font-family: "Clicker Script";
+    font-size: 8rem;
+}
+
+.title-text {
+    color: #627002;
+    font-size: 1.5rem;
+}
+
+.top-cloud {
+    height: 5rem;
+    left: 30rem;
+    margin: 0;
+    position: relative;
+    width: 300px;
+}
+
+.bottom-cloud{
+    height: 5rem;
+    left: 20rem;
+    margin: 0;
+    position: absolute;
+    width: 300px;
+}
+
+.title-cover {
+    object-fit: cover;
+    width: 100%;
+}
+
+
+/* INTRO SECTION */
+
+
+.intro-img  {
+    height: 10rem;
+    margin: 5rem auto 2rem;
+    width: 10rem;
+    
+}
+
+.intro-text  {
+    color: #627002;
+    font-size: 2rem;
+}
+
+.intro-subtext  {
+    padding-bottom: 2rem;
+}
+
+
+/* SKILLS SECTION */
+
+.skills-title   {
+    color: #627002;
+    margin: 2rem auto;
+    padding: 3%;
+}
+
+.skills-img {
+    height: 20rem;
+    margin: 3rem;
+    width: 20rem;
+}
+
+.skills-text {
+    color: #e06a82;
+}
+
+
+.skills-subtext    {
+    margin: 0 auto 3rem;
+    width: 40%;
+}
+
+
+/* CONTACT SECTION */
+
+
+.contact-img   {
+    height: 20rem;
+    margin: 5rem;
+    transform: rotate(35deg);
+    width: 20rem;
+}
+
+.contact-title  {
+    color: #627002;
+}
+
+.contact-btn    {
+    background-color: #627002;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.contact-btn:hover  {
+    color: #e6a4b4;
+}
+
+
+/* FOOTER SECTION */
+
+#Footer {
+    background-color: #e4d5c6;
+    padding: 2rem;
+}
+
+.footer-icon   {
+    color: #c86b85;
+    margin: 0 1.5rem;
+}
+
+.footer-icon:hover  {
+    color: #627002;
+}
+
+.copyright  {
+    color: #d884a5;
+    font-size: 1rem;
+    padding-top: 1rem;
+}
+
+/* MEDIA QUERY */
+
+@media (max-width: 1800px)   {
+    .top-cloud {
+        height: 5rem;
+        left: 15rem;
+        margin: 0;
+        position: relative;
+        width: 300px;
+    }
+
+    .bottom-cloud {
+        height: 5rem;
+        left: 5rem;
+        margin: 0;
+        position: absolute;
+        width: 300px;
+    }
+}
