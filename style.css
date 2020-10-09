@@ -73,6 +73,7 @@ a   {
     height: 5rem;
     left: 30rem;
     margin: 0;
+    padding:0;
     position: relative;
     width: 300px;
 }
@@ -87,6 +88,7 @@ a   {
 
 .title-cover {
     object-fit: cover;
+    padding:0;
     width: 100%;
 }
 
@@ -154,7 +156,7 @@ a   {
 .contact-btn    {
     background-color: #627002;
     margin: 2rem auto;
-    padding: 1rem auto;
+    padding: 1rem 0;
 }
 
 .contact-btn:hover  {
@@ -166,7 +168,7 @@ a   {
 
 #Footer {
     background-color: #e4d5c6;
-    padding: 2rem auto;
+    padding: 2rem 0;
 }
 
 .footer-icon   {
