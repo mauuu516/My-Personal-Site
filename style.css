@@ -37,7 +37,7 @@ a   {
 }
 
 .nav-item    {
-    padding: 0 18%;
+    padding: 0 0 0 18%;
 }
 
 .nav-li   {
@@ -116,7 +116,7 @@ a   {
 .skills-title   {
     color: #627002;
     margin: 2rem auto;
-    padding: 3%;
+    padding: 0 0 0 3%;
 }
 
 .skills-img {
@@ -165,7 +165,7 @@ a   {
 
 #Footer {
     background-color: #e4d5c6;
-    padding: 2rem;
+    padding: 2rem auto;
 }
 
 .footer-icon   {
