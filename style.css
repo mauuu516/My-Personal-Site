@@ -121,7 +121,7 @@ a   {
 
 .skills-img {
     height: 20rem;
-    margin: 3rem;
+    margin: 3rem auto;
     width: 20rem;
 }
 
@@ -152,8 +152,8 @@ a   {
 
 .contact-btn    {
     background-color: #627002;
-    margin: 2rem;
-    padding: 1rem;
+    margin: 2rem auto;
+    padding: 1rem auto;
 }
 
 .contact-btn:hover  {
