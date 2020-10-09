@@ -143,7 +143,7 @@ a   {
 
 .contact-img   {
     height: 20rem;
-    margin: 5rem auto;
+    margin: 0 0 0 5rem;
     padding: 0;
     transform: rotate(35deg);
     width: 20rem;
