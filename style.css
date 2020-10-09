@@ -204,4 +204,10 @@ a   {
         position: absolute;
         width: 300px;
     }
+    
+    body {
+    height: auto;
+    width: 100%;
+    
+    }
 }
