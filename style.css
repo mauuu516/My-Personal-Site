@@ -212,26 +212,3 @@ a   {
     }
 }
 
-@media (max-width: 320px)   {
-    .top-cloud {
-        height: 5rem;
-        left: 5rem;
-        margin: 0;
-        position: relative;
-        width: 300px;
-    }
-
-    .bottom-cloud {
-        height: 5rem;
-        left: 3rem;
-        margin: 0;
-        position: absolute;
-        width: 300px;
-    }
-    
-    body {
-    height: auto;
-    width: 100%;
-    
-    }
-}
