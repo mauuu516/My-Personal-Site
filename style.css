@@ -6,6 +6,8 @@ body {
     color: #968089;
     font-family: "Merriweather";
     line-height: 2;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
